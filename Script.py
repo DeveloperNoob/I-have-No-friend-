@@ -35,9 +35,9 @@ class script(object):
 - Eva Maria Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
-1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Eva Maria supports buttons with any telegram media type.
-3. Buttons should be properly parsed as markdown format
+1. SERIES REQESTING GROUP :- @TvSeriesLand4U
+2. MOVIE REQESTING GROUP :- @onlymovie76
+3. OTT UPDATE CHANNEL :- @M76Links
 
 <b>URL buttons:</b>
 <code>[Button Text](buttonurl:https//t.me/TvSeriesLand4U)</code>
